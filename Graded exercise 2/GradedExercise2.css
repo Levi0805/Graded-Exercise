@@ -1,0 +1,38 @@
+
+.shop-img{
+    width: 100%;
+    height: auto;
+}
+
+.shop-item{
+    border: 1px solid blue;
+    border-radius: 20px;
+    margin: 40px;
+}
+
+.item-img{
+    width: 150px;
+    height: 150px;
+}
+
+.item-quantity{
+    width: 70px;
+}
+
+.shop-price{
+    color: aquamarine;
+    font-size: 20px;
+}
+.shop-title{
+    color: brown;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.table{
+    color:brown;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.purple d-lg-flex bg-success text-black text-center{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow'
+}
